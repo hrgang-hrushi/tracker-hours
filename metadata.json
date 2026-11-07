@@ -1,0 +1,6 @@
+{
+  "name": "Hours & Salary Tracker + Pay Predictor",
+  "description": "Precision hours telemetry, real-time earnings chrono, timesheet ledger, and interactive pay predictive engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
